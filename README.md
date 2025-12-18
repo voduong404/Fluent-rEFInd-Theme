@@ -10,4 +10,5 @@
 
 2. Tahoe
 
-[preview_001.bmp](https://github.com/user-attachments/files/24236832/preview_001.bmp)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9177af60-2401-4601-9f55-56526db40787" />
+
